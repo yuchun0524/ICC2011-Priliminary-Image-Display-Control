@@ -1,0 +1,106 @@
+m255
+K3
+13
+cModel Technology
+dC:\ic_contest\2015
+vIRB
+V7a__=mQ6gUGEX59k7?oWD2
+r1
+!s85 0
+31
+I@77;k`F]NV<ADaX^Q8D=01
+Z0 dC:\ic_contest\2011
+Z1 w1300763962
+FIRB.v
+Z2 8testfixture.v
+Z3 Ftestfixture.v
+L0 56
+Z4 OL;L;10.1c;51
+Z5 !s108 1596783024.153000
+Z6 !s107 IROM.v|IRB.v|lcd_ctrl.v|testfixture.v|
+Z7 !s90 -reportprogress|300|testfixture.v|lcd_ctrl.v|+define+tb2|+notimingchecks|
+Z8 o+notimingchecks -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z9 !s92 +define+tb2 +notimingchecks -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@i@r@b
+!s100 z:kLlCno:FQN8;_;T41EI2
+!i10b 1
+virom
+VQ4KWLIYXPHSC^eT7iHaEO1
+r1
+31
+IhE`ZMDzOTjK[k[K]SG9BN1
+Z10 dC:\ic_contest\2011
+R1
+Z11 FIROM.v
+R2
+R3
+L0 87
+R4
+R5
+R6
+R7
+R8
+R9
+!s85 0
+!s100 9YlCc;4DW?mH[:<dIze9Q3
+!i10b 1
+vIROM
+VPP@4>3=4CmDKHn4KDYOln2
+r1
+31
+IC^`CWTn56X:`8oHPCHCGR0
+R10
+R1
+R11
+R2
+R3
+L0 68
+R4
+R5
+R6
+R7
+R8
+R9
+n@i@r@o@m
+!s85 0
+!s100 dFZWZLK4dM9cQAUTdfJ530
+!i10b 1
+vLCD_CTRL
+Vem[Doe_JG4UfdkmgzN[o`1
+r1
+31
+Ieh9O`BZ4OGLfX5VhTd1d>0
+R10
+w1596783017
+8lcd_ctrl.v
+Flcd_ctrl.v
+L0 1
+R4
+R5
+R6
+R7
+R8
+R9
+n@l@c@d_@c@t@r@l
+!s85 0
+!i10b 1
+!s100 ;mce9A_ZdE]jaGL9dYK0K0
+vtest
+VQ:0YoCTco[@:Ue3TQ770l0
+r1
+31
+Id:mROE:=`T=IzTOCDdhWD2
+R10
+R1
+R2
+R3
+L0 20
+R4
+R5
+R6
+R7
+R8
+R9
+!s85 0
+!s100 cz>kAYi9cZ`6fC?O^KlO20
+!i10b 1
